@@ -1,6 +1,10 @@
+## 🌐 Live Demo
+https://mehulkapoor26.github.io/EarthlyticsAI/
+
 # EarthlyticsAI 🌍
 
 AI-powered carbon footprint tracking platform built during Hackowasp Hackathon at Thapar Institute under SDG-13: Climate Action.
+
 
 ## Features
 - Electricity usage tracking
